@@ -164,36 +164,39 @@ const getTimeSlots = async (req, res) => {
   }
 };
 
-const resetpassword = async (req, res) => {
-  const { otp, Username, newPassword } = req.body;
-
-  if (otp == 2421234) {
-    try {
-      const updateFields = {};
+ const resetpassworddoctor = async (req,res) => {
+    const {otpreal,otp,Username,newPassword} = req.body
+    console.log(otp+"a")
+    if(otp === otpreal){
+      try{
+        
+        const updateFields = {};
       updateFields.Password = newPassword;
-
-      const updated = await userModel.findOneAndUpdate(
-        { Username: Username },
-        updateFields,
-        { new: true }
-      );
-      console.log(updated);
-      if (!updated) {
-        throw new Error("Username not found");
-      } else {
-        res.status(200).json(updated);
+    
+      const updated = await doctorModel.findOneAndUpdate(
+      {Username: Username },
+      updateFields,
+      { new: true }
+    );
+    console.log(updated)
+    if(!updated){
+      throw new Error('Username not found')
+    }
+    else{
+      res.status(200).json({docid:updated._id})
+    }
+      }catch(error){
+        res.status(404).json({error:"Username not found"})
       }
-    } catch (error) {
-      res.status(404).json({ error: "Username not found" });
     }
-  } else {
-    try {
-      throw new Error("Wrong OTP");
-    } catch (error) {
-      res.status(404).json({ error: "Wrong OTP" });
-    }
-  }
-};
+    else{
+      try{
+        throw new Error('Wrong OTP')
+      }catch(error){
+        res.status(404).json({error:"Wrong OTP"})
+      }
+      }
+  }  
 
 const Followup = async (req, res) => {
   const { userid, FollowUp } = req.body;
@@ -697,6 +700,12 @@ export default AdminstratorForm;
 <details>
   <summary>Patient Dashboard</summary>
   <img src="./Screenshots/ss9.jpg" width="800">
+</details>
+<summary>Admin Dashboard</summary>
+  <img src="./Screenshots/ss10.jpg" width="800">
+</details>
+<summary>Doctor Dashboard</summary>
+  <img src="./Screenshots/ss11.jpg" width="800">
 </details>
 
 ## Tech/Framework used
