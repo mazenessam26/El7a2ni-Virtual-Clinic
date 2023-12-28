@@ -1,4 +1,4 @@
-# THE MATRIX TEAM
+
 
 # Advanced Computer Lab Project
 
@@ -706,6 +706,9 @@ export default AdminstratorForm;
 </details>
 <summary>Doctor Dashboard</summary>
   <img src="./Screenshots/ss11.jpg" width="800">
+</details>
+<summary>Notifications Page</summary>
+  <img src="./Screenshots/ss12.jpg" width="800">
 </details>
 
 ## Tech/Framework used
