@@ -10,8 +10,8 @@ const session = require('express-session');
 const upload = multer();
 require('dotenv').config();
 // add MONGO_URI in .env file
-//Check db connection links in README file
-const MongoURI = 'mongodb+srv://thematrix:thematrix@el7a2nidb.lrjz9fm.mongodb.net/?retryWrites=true&w=majority';
+
+const MongoURI = process.env.MONGO_URI;
 const {createUser, createDoctor, createAdminstrator, deleteDoctor, deleteAdminstrator, deleteUser, getDoctor,editDoctorInfo,filterByDateOrStatus,searchForPatient, getUsers, getDoctors, addPackage, updatePackage, deletePackage,addFamilyInfo,getFamilyMembers, searchForDoctor, searchForDoctorspeciality, searchForDoctordate, addHealthRecords, Loginuser,changepassworduser,addHealthRecord, resetpassword, getHealthRecords, removeHealthRecords, addfamilymemberpatient, getTimeSlots, reserveTimeSlot, addavaliabletime, getWalletCredit, payWithWallet, getappointments, createnotification, getnotificationsuser, getnotificationsdoctor, viewPatPres, reschedule, getappointments2, getAdminstrators}= require('./Controller/userController')
 const {Login, changepasswordadmin, acceptdoctor, getRequests, resetpasswordadmin, rejectdoc, addHealthPackage, requestOTP} = require('./Controller/adminController');
 const {Logindoc, changepassworddoctor, resetpassworddoctor, addSlots, Followup, chat, allchat, rescheduleApp, getDrApp, addPres, viewDrPres, editDrPres} = require('./Controller/doctorController');
