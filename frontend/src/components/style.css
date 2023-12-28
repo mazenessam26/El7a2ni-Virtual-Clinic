@@ -1,0 +1,1139 @@
+.pharma-signup-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.pharma-signup-page .div {
+    background-color: #ffffff;
+    height: 1793px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.pharma-signup-page .bot-bar {
+    height: 131px;
+    left: -53px;
+    position: absolute;
+    top: 1704px;
+    width: 1495px;
+}
+
+.pharma-signup-page .overlap-group {
+    height: 89px;
+    left: 53px;
+    position: relative;
+    width: 1440px;
+}
+
+.pharma-signup-page .rectangle {
+    background-color: #4584ff;
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 1440px;
+}
+
+.pharma-signup-page .rectangle2 {
+    background-color: #4584ff;
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 144px;
+}
+
+.pharma-signup-page .acllogo {
+    height: 89px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+.acllogo2{
+    height: 89px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+.formdoc{
+    top: 100px;
+    position: absolute;
+    
+}
+
+.pharma-signup-page .text-wrapper {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 510px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 47px;
+    white-space: nowrap;
+}
+
+.pharma-signup-page .overlap {
+    height: 1757px;
+    left: -243px;
+    position: absolute;
+    top: -89px;
+    width: 1683px;
+}
+
+.pharma-signup-page .nav-bar {
+    height: 446px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1683px;
+}
+.nav-bar2{
+    background-color: #4584ff;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1688px;
+}
+.bot-bar2{
+    background-color: #4584ff;
+    height: 100px;
+    left: -53px;
+    position: absolute;
+    top: 644px;
+    width: 1688px;
+}
+
+.pharma-signup-page .overlap-2 {
+    height: 446px;
+    position: relative;
+}
+
+.pharma-signup-page .rectangle-2 {
+    background-color: #4584ff;
+    height: 175px;
+    left: 243px;
+    position: absolute;
+    top: 89px;
+    width: 2500px;
+}
+
+.pharma-signup-page .logo {
+    height: 446px;
+    left: -90px;
+    position: absolute;
+    top: -10px;
+    width: 965px;
+}
+
+.pharma-signup-page .overlap-group-2 {
+    height: 357px;
+    left: 243px;
+    position: relative;
+    top: 89px;
+    width: 720px;
+}
+
+.pharma-signup-page .img {
+    height: 357px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 680px;
+}
+.img2{
+    height: 60px;
+    
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 122px;
+}
+
+.pharma-signup-page .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    left: 403px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 89px;
+    white-space: nowrap;
+    width: 317px;
+}
+
+.pharma-signup-page .logo-btn {
+    height: 175px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 719px;
+}
+
+.pharma-signup-page .sign-up {
+    height: 63px;
+    left: 1213px;
+    position: absolute;
+    top: 174px;
+    width: 406px;
+}
+
+.pharma-signup-page .overlap-3 {
+    height: 63px;
+    position: relative;
+    width: 404px;
+}
+
+.pharma-signup-page .rectangle-3 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 59px;
+    left: 6px;
+    position: absolute;
+    top: 4px;
+    width: 398px;
+}
+
+.pharma-signup-page .p {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 63px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 404px;
+}
+
+.pharma-signup-page .login {
+    height: 1380px;
+    left: 695px;
+    position: absolute;
+    top: 377px;
+    width: 502px;
+}
+
+.pharma-signup-page .overlap-4 {
+    height: 1380px;
+    position: relative;
+    width: 504px;
+}
+
+.pharma-signup-page .relation {
+    height: 83px;
+    left: 14px;
+    position: absolute;
+    top: 1117px;
+    width: 475px;
+}
+
+.pharma-signup-page .div-wrapper {
+    background-color: #ffffff;
+    border: 7px solid;
+    border-color: #4584ff;
+    border-radius: 20px;
+    height: 83px;
+    position: relative;
+    width: 473px;
+}
+
+.pharma-signup-page .text-wrapper-3 {
+    color: #4584ff80;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 73px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    width: 451px;
+}
+
+.pharma-signup-page .mobile-no {
+    height: 83px;
+    left: 15px;
+    position: absolute;
+    top: 1183px;
+    width: 475px;
+}
+
+.pharma-signup-page .name {
+    height: 83px;
+    left: 16px;
+    position: absolute;
+    top: 1050px;
+    width: 475px;
+}
+
+.pharma-signup-page .emergency-contact {
+    height: 408px;
+    left: 13px;
+    position: absolute;
+    top: 1020px;
+    width: 473px;
+}
+
+.pharma-signup-page .line {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 394px;
+    width: 486px;
+}
+
+.pharma-signup-page .overlap-5 {
+    height: 69px;
+    left: -14px;
+    position: absolute;
+    top: 0;
+    width: 486px;
+}
+
+.pharma-signup-page .line-2 {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 486px;
+}
+
+.pharma-signup-page .text-wrapper-4 {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 55px;
+    left: 133px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    width: 352px;
+}
+
+.pharma-signup-page .form-bounds {
+    height: 1380px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 504px;
+}
+
+.pharma-signup-page .overlap-group-wrapper {
+    height: 59px;
+    left: 16px;
+    position: absolute;
+    top: 1350px;
+    width: 470px;
+}
+
+.pharma-signup-page .overlap-group-3 {
+    height: 59px;
+    position: relative;
+    width: 468px;
+}
+
+.pharma-signup-page .rectangle-4 {
+    background-color: #4584ff;
+    border-radius: 18px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 59px;
+    left: 7px;
+    position: absolute;
+    top: 0;
+    width: 461px;
+}
+
+.pharma-signup-page .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 32px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 468px;
+}
+
+.pharma-signup-page .line-3 {
+    height: 29px;
+    left: 2px;
+    position: absolute;
+    top: 1256px;
+    width: 514px;
+}
+
+.pharma-signup-page .overlap-6 {
+    height: 50px;
+    left: -14px;
+    position: absolute;
+    top: 0;
+    width: 514px;
+}
+
+.pharma-signup-page .line-4 {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 22px;
+    width: 514px;
+}
+
+.pharma-signup-page .text-wrapper-6 {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 36px;
+    left: 381px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    white-space: nowrap;
+    width: 133px;
+}
+
+.pharma-signup-page .overlap-wrapper {
+    height: 83px;
+    left: 13px;
+    position: absolute;
+    top: 750px;
+    width: 475px;
+}
+
+.pharma-signup-page .gender {
+    height: 136px;
+    left: 197px;
+    position: absolute;
+    top: 576px;
+    width: 293px;
+
+    height: 136px;
+    left: 13px;
+    position: absolute;
+    top: 876px;
+    width: 475px;
+}
+
+
+.pharma-signup-page .overlap-7 {
+    height: 136px;
+    left: 131px;
+    position: absolute;
+    top: 0;
+    width: 162px;
+}
+
+.pharma-signup-page .female {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 63px;
+    width: 162px;
+}
+
+.pharma-signup-page .rectangle-5 {
+    background-color: #ffffff;
+    border: 7px solid;
+    border-color: #4584ff;
+    border-radius: 20px;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 22px;
+    width: 27px;
+}
+
+.pharma-signup-page .text-wrapper-7 {
+    color: #4584ff80;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 73px;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 130px;
+}
+
+.pharma-signup-page .male {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 119px;
+}
+
+.pharma-signup-page .text-wrapper-8 {
+    color: #4584ff80;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 73px;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 87px;
+}
+
+.pharma-signup-page .text-wrapper-9 {
+    color: #4584ff80;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 73px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 36px;
+    width: 123px;
+}
+
+.pharma-signup-page .dob {
+    height: 83px;
+    left: 16px;
+    position: absolute;
+    top: 617px;
+    width: 174px;
+}
+
+.pharma-signup-page .overlap-8 {
+    background-color: #ffffff;
+    border: 7px solid;
+    border-color: #4584ff;
+    border-radius: 20px;
+    height: 83px;
+    position: relative;
+    width: 172px;
+}
+
+.pharma-signup-page .text-wrapper-10 {
+    color: #4584ff80;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 64px;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    width: 146px;
+}
+
+.pharma-signup-page .password {
+    height: 83px;
+    left: 15px;
+    position: absolute;
+    top: 485px;
+    width: 475px;
+}
+
+.pharma-signup-page .email {
+    height: 83px;
+    left: 13px;
+    position: absolute;
+    top: 355px;
+    width: 475px;
+}
+
+.pharma-signup-page .name-2 {
+    height: 83px;
+    left: 13px;
+    position: absolute;
+    top: 225px;
+    width: 475px;
+}
+
+.pharma-signup-page .username {
+    height: 83px;
+    left: 13px;
+    position: absolute;
+    top: 95px;
+    width: 475px;
+}
+
+
+
+
+
+.welcome-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.welcome-page .div {
+    background-color: #ffffff;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.welcome-page .overlap {
+    height: 131px;
+    left: -53px;
+    position: absolute;
+    top: 937px;
+    width: 1493px;
+}
+
+.welcome-page .nav-bar {
+    height: 131px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1493px;
+}
+
+.welcome-page .overlap-group {
+    height: 89px;
+    left: 53px;
+    position: relative;
+    width: 1440px;
+}
+
+.welcome-page .rectangle {
+    background-color: #4584ff;
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 1440px;
+}
+
+.welcome-page .acllogo {
+    height: 87px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+
+.welcome-page .text-wrapper {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 563px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 46px;
+    white-space: nowrap;
+}
+
+.welcome-page .clinic-btn {
+    height: 134px;
+    left: 267px;
+    position: absolute;
+    top: 651px;
+    width: 373px;
+}
+
+.welcome-page .overlap-2 {
+    height: 134px;
+    position: relative;
+    width: 371px;
+}
+
+.welcome-page .rectangle-2 {
+    background-color: #4584ff;
+    height: 126px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 371px;
+}
+
+.welcome-page .CLINIC {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    width: 371px;
+}
+
+.welcome-page .pharma-btn {
+    height: 133px;
+    left: 802px;
+    position: absolute;
+    top: 651px;
+    width: 373px;
+}
+
+.welcome-page .overlap-3 {
+    height: 133px;
+    position: relative;
+    width: 371px;
+}
+
+.welcome-page .PHARMACY {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 6px;
+    width: 371px;
+}
+
+.welcome-page .overlap-4 {
+    height: 547px;
+    left: 0;
+    position: absolute;
+    top: -100px;
+    width: 1440px;
+}
+
+.welcome-page .p {
+    color: #000000;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    left: 267px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 328px;
+    width: 906px;
+}
+
+.welcome-page .overlap-wrapper {
+    height: 446px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.welcome-page .overlap-5 {
+    height: 346px;
+    position: relative;
+    top: 100px;
+}
+
+.welcome-page .rectangle-3 {
+    background-color: #4584ff;
+    height: 175px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.welcome-page .img {
+    height: 346px;
+    left: 258px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 923px;
+}
+.pharma-admin {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.pharma-admin .div {
+    background-color: #ffffff;
+    height: 1016px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.pharma-admin .bot-bar {
+    height: 131px;
+    left: -53px;
+    position: absolute;
+    top: 927px;
+    width: 1495px;
+}
+
+.pharma-admin .overlap-group {
+    height: 89px;
+    left: 53px;
+    position: relative;
+    width: 1440px;
+}
+
+.pharma-admin .rectangle {
+    background-color: #4584ff;
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 19px;
+    width: 1440px;
+}
+
+.pharma-admin .acllogo {
+    height: 89px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+
+.pharma-admin .text-wrapper {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 510px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 47px;
+    white-space: nowrap;
+}
+
+.pharma-admin .overlap {
+    height: 446px;
+    left: -243px;
+    position: absolute;
+    top: -89px;
+    width: 1683px;
+}
+
+.pharma-admin .nav-bar {
+    height: 446px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1683px;
+}
+
+.pharma-admin .overlap-2 {
+    height: 446px;
+    position: relative;
+}
+
+.pharma-admin .rectangle-2 {
+    background-color: #4584ff;
+    height: 175px;
+    left: 243px;
+    position: absolute;
+    top: 89px;
+    width: 1440px;
+}
+
+.pharma-admin .logo {
+    height: 446px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1292px;
+}
+
+.pharma-admin .overlap-group-2 {
+    height: 357px;
+    left: 243px;
+    position: relative;
+    top: 89px;
+    width: 1047px;
+}
+
+.pharma-admin .img {
+    height: 357px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 680px;
+}
+
+.pharma-admin .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    height: 86px;
+    left: 429px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 88px;
+    width: 618px;
+}
+
+.pharma-admin .logo-btn {
+    height: 175px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 719px;
+}
+
+.pharma-admin .sign-up {
+    height: 59px;
+    left: 1484px;
+    position: absolute;
+    top: 178px;
+    width: 135px;
+}
+
+.pharma-admin .overlap-3 {
+    height: 59px;
+    position: relative;
+    width: 133px;
+}
+
+.pharma-admin .rectangle-3 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 59px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 131px;
+}
+
+.pharma-admin .sign-up-2 {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 32px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 133px;
+}
+
+.pharma-admin .overlap-wrapper {
+    height: 59px;
+    left: 1260px;
+    position: absolute;
+    top: 102px;
+    width: 361px;
+}
+
+.pharma-admin .overlap-4 {
+    height: 59px;
+    position: relative;
+    width: 359px;
+}
+
+.pharma-admin .rectangle-4 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 59px;
+    left: 5px;
+    position: absolute;
+    top: 0;
+    width: 354px;
+}
+
+.pharma-admin .sign-up-3 {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 32px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 359px;
+}
+
+.pharma-admin .text-wrapper-3 {
+    color: #000000;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    height: 104px;
+    left: 290px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 304px;
+    width: 890px;
+}
+
+.pharma-admin .navigation {
+    height: 370px;
+    left: 212px;
+    position: absolute;
+    top: 414px;
+    width: 1016px;
+}
+
+.pharma-admin .overlap-5 {
+    background-color: #4584ff;
+    border-radius: 73px;
+    height: 308px;
+    left: 0;
+    position: absolute;
+    top: 62px;
+    width: 1014px;
+}
+
+.pharma-admin .btn {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 56px;
+    position: absolute;
+    top: 203px;
+    width: 443px;
+}
+
+.pharma-admin .overlap-group-3 {
+    height: 59px;
+    position: relative;
+    width: 441px;
+}
+
+.pharma-admin .rectangle-5 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 59px;
+    left: 7px;
+    position: absolute;
+    top: 0;
+    width: 434px;
+}
+
+.pharma-admin .sign-up-4 {
+    color: #4584ff;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    height: 32px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 441px;
+}
+
+.pharma-admin .overlap-group-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 518px;
+    position: absolute;
+    top: 203px;
+    width: 443px;
+}
+
+.pharma-admin .div-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 518px;
+    position: absolute;
+    top: 122px;
+    width: 443px;
+}
+
+.pharma-admin .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 56px;
+    position: absolute;
+    top: 122px;
+    width: 443px;
+}
+
+.pharma-admin .btn-2 {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 518px;
+    position: absolute;
+    top: 41px;
+    width: 443px;
+}
+
+.pharma-admin .btn-3 {
+    all: unset;
+    box-sizing: border-box;
+    height: 59px;
+    left: 56px;
+    position: absolute;
+    top: 41px;
+    width: 443px;
+}
+
+.pharma-admin .text-wrapper-4 {
+    color: #000000;
+    font-family: "Josefin Sans-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    height: 47px;
+    left: 173px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 669px;
+}
+

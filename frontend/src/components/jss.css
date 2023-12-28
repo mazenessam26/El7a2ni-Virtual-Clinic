@@ -1,0 +1,22 @@
+li {
+    list-style: none;
+    border: 2px solid black;
+    border-radius: 35px;
+    width: max-content;
+    padding: 16px;
+}
+ul{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+form{
+    gap: 5px;
+}
+.buttons{
+    gap: 10px;
+    display: flex;
+}
